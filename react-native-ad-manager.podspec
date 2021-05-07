@@ -22,5 +22,7 @@ Pod::Spec.new do |s|
   s.dependency "React"
   s.dependency 'Google-Mobile-Ads-SDK', '7.68.0'
   s.dependency 'GoogleMobileAdsMediationFacebook'
+  s.dependency "PureLayout"
+
 end
 
