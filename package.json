@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ad-manager",
+  "name": "@mdagostino/react-native-ad-manager",
   "title": "React Native Ad Manager",
   "version": "1.2.4",
   "description": "A react-native component for Google Ad Manager banners, interstitials and native ads.",
@@ -17,10 +17,7 @@
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "Mariano D'Agostino",
-    "email": "mariano.dagostino@gmail.com"
-  },
+  "author": "Mariano D'Agostino <mariano.dagostino@gmail.com>",
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
