@@ -17,7 +17,10 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Mariano D'Agostino <mariano.dagostino@gmail.com>",
+  "author": {
+    "name": "Mariano D'Agostino",
+    "email": "mariano.dagostino@gmail.com"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "dependencies": {
